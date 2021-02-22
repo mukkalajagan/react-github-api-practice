@@ -18,7 +18,7 @@ const App = () => {
       <input type="text" placeholder="Enter something" ref={inputRef} />
       <br />
       <br />
-      <button onClick={handleClick}><img src=''/>Click Me</button>
+      <button onClick={handleClick}>Click Me</button>
       <br />
       <br />
       {variable}
